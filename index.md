@@ -5,7 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      I demystify AI for people and build cool projects. I like to travel around to world to present at various conferences.
+      I demystify AI for people and build cool projects. I like to travel around the world to present at various conferences.
   - section_id: about
     component: content_block.html
     type: contentblock
