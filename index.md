@@ -12,10 +12,7 @@ sections:
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Jayesh Bapu Ahire is an organizer of the Pune Elasticsearch User Group, Pune AWS User Group, twilio and Microsoft AI community. Jayesh is an AI Researcher doing research on Distributed Neural Computers with renowned universities. He is a freelance cloud consultant. Jayesh has authored books on Neural Networks, Reinforcement Learning, and Simulation Hypothesis. He writes a technical blog and his articles are published in many renowned publications. He has been awarded a title of Twilio Champion by Twilio and Most Valuable Blogger by Dzone. 
     actions:
       - label: Contact Me
         url: /contact
