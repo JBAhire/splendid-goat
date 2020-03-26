@@ -5,8 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I demystify AI for people and build cool projects. I like to travel around to world to present at various conferences.
   - section_id: about
     component: content_block.html
     type: contentblock
